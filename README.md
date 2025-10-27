@@ -27,7 +27,7 @@ We recommend installing the environment using the provided `requirements.txt` fi
 pip install -r requirements.txt
 ```
 
-> **Note** If you have an available GPU, the accelerated PepLM-GNN can be used to predict peptide-protein binary interactions and pair-specific binding residues. Change the URL below to reflect your version of the cuda toolkit (cu118 for cuda=11.6 and cuda 11.8, cu121 for cuda 12.1). However, do not provide a number greater than your installed cuda toolkit version!
+> **Note** If you have an available GPU, the accelerated PepLM-GNN can be used to predict peptide-protein binary interactions. Change the URL below to reflect your version of the cuda toolkit (cu118 for cuda=11.6 and cuda 11.8, cu121 for cuda 12.1). However, do not provide a number greater than your installed cuda toolkit version!
 > 
 > ```
 > pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu118
