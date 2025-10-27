@@ -1,4 +1,4 @@
-# KGIPA
+# PepLM-GNN
 
 <div align="center">
 
@@ -53,7 +53,7 @@ wget https://zenodo.org/records/4644188/files/prot_t5_xl_uniref50.zip?download=1
 unzip prot_t5_xl_uniref50.zip
 ```
 
-## 1.4 Inatsll PepLM-GNN
+## 1.4 Install PepLM-GNN
 To install from the development branch run
 ```
 git clone git@github.com:cokeyk/PepLM-GNN.git
