@@ -77,7 +77,7 @@ python run_predictor.py -uip example
 If you want to retrain based on your private dataset, find the original PepLM-GNN model in `model.py`. The PepLM-GNN source code we wrote is based on the Pytorch implementation and can be easily imported by instantiating it.
 
 # 3 Problem feedback
-If you have questions on how to use PepLM-GNN, feel free to raise questions in the [discussions section](https://github.com/cokeyk/PepLM-GNN/discussions). If you identify any potential bugs, feel free to raise them in the [issuetracker](https://github.com/cokeyk/PepLM-GNN/issues).
+If you identify any potential bugs, feel free to raise them in the [issuetracker](https://github.com/cokeyk/PepLM-GNN/issues).
 
 In addition, if you have any further questions about PepLM-GNN, please feel free to contact us [**kyan@bliulab.net**]
 
